@@ -1,5 +1,4 @@
-@st-import Header from './components/header/header.st.css';
-@st-import Footer from './components/footer/footer.st.css';
+@st-import Header from './co/header.st.css';
 
 .root {
     overflow: visible;

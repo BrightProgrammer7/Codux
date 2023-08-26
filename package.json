@@ -13,7 +13,7 @@
     "typecheck": "tsc --noEmit",
     "test": "npm run typecheck && npm run lint"
   },
-  "keywords": [],
+  "keywords": [], 
   "author": "",
   "license": "UNLICENSED",
   "private": true,
