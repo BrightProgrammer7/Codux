@@ -132,3 +132,4 @@ dist
 
 # Stylable dts files
 st-types
+.vscode/
